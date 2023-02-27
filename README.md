@@ -1,2 +1,3 @@
 # TangledWig
-Experimenting with Tangle synchronisation in a Zig WebAssembly environment
+
+> Experimenting with Tangle synchronisation in a Zig WebAssembly environment
